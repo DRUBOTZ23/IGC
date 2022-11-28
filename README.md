@@ -17,7 +17,7 @@ $ python run.py
 
 ### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
+<img src="https://github.com/mhmdbadru-23/IGC/blob/main/Image.jpg" />
 
 ##### MY SOCIAL MEDIA
 
