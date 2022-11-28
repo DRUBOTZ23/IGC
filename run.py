@@ -1,6 +1,6 @@
 import time
-print("""[1;91m[>] Encoded By Klein
-[m[>] Github : XAIVER-69
+print("""[1;91m[>] Encoded By Muhamad Badru Wasih
+[m[>] Github : mhmdbadru-23
 [1;91m[>] Encryption Type : Py3 Marshal[3.11]
 [m-----------------------------------------""")
 time.sleep(0.02)
