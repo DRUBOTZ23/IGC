@@ -13,7 +13,7 @@ $ pkg install git
 $ git clone github.com/mhmdbadru-23/IGC
 ```
 ### And Cr4ck this script
-```bash
+
 $ cd IGC
 $ python run.py
 ```
