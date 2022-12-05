@@ -10,7 +10,7 @@ $ pkg install python && pkg install python2
 
 $ pkg install git
 
-$ git clone github.com/mhmdbadru-23/IGC
+$ git clone https://github.com/gusty-xd/IGC
 ```
 ### And Cr4ck this script
 
